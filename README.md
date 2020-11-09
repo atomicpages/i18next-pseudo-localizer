@@ -8,7 +8,7 @@ npm i i18next i18next-pseudo-localizer
 
 ## Basic Usage
 
-`i18next-pseudo-localizer` has one class export and a ore-constructed variable with all defaults:
+`i18next-pseudo-localizer` has one class export and a pre-constructed variable (with sensible defaults):
 
 ```js
 import i18next from 'i18next';
